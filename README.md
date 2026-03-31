@@ -50,7 +50,7 @@ This app allows users to manage tasks efficiently with features like CRUD operat
 
 2. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone git remote add origin https://github.com/yamini749/Task-Management-App.git
 3. Navigate to Project  
    ```bash
    cd Task-Management-App
